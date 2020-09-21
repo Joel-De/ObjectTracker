@@ -1,4 +1,11 @@
 # ObjectTracker
 
+Heres an example of and older version working, pardon the messy room I'd been working on this for a couple days before getting it to work propperly, good news is once you understand it, it's fairly easy to get good results :)
+
+![Tracking servo](https://user-images.githubusercontent.com/71618484/93733221-8e5db100-fba2-11ea-9674-8b1505cb8c1f.gif)
+
+
 Pretty basic OpenMV script to identify an april tag (I glued the tag onto an object) and get those co-ordinates, many examples available online.
 I took those co-ordinates and connected them to a hobby servo motor that you can get at pretty much any hardware store, and got it to follow it around pretty easily, I have a 2 Axis version that will be coming soon using a simple design I put together in about an hour
+
+
