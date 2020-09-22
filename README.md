@@ -1,7 +1,8 @@
 # ObjectTracker
 
 Heres an example of and older version working, pardon the messy room I'd been working on this for a couple days before getting it to work propperly, good news is once you understand it, it's fairly easy to get good results :)
-
+![newstuff](https://user-images.githubusercontent.com/71618484/93847974-722b4400-fc76-11ea-8739-9e45db11ba33.gif)
+Below is what the early prototype stages looked like, back with color tracking which I couldnt do due to the low resolution and general poor ability of the camera being able to adapt to light
 ![Tracking servo](https://user-images.githubusercontent.com/71618484/93733221-8e5db100-fba2-11ea-9674-8b1505cb8c1f.gif)
 
 
